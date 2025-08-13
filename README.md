@@ -1,2 +1,2 @@
-# -
-in order to learn the source code through deepwiki
+# 航天器追逃微分对策鞍点求解方法和实现 
+包括固定逗留期微分对策鞍点求解 ，无限时域微分对策鞍点求解和生存型微分对策鞍点求解。主要使用matlab实现
